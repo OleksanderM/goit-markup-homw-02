@@ -12,12 +12,12 @@ body{
     font-family:var(--primary-font);
 }
 /*=======================COMPONENTS=============== */
+
 .modal-btn {
-    font-weight: 500;
+    font-weight: 700;
     font-size: 16px;
-    line-height: 1.62;
-    text-align: center;
-    letter-spacing: 0.03em;
+    line-height: 1.88;
+    letter-spacing: 0.06em;
     cursor: pointer;
     color: #212121;
 }
@@ -140,6 +140,20 @@ background-color: #2F303A;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.87;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+.teame{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+.profession{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.19;
     letter-spacing: 0.03em;
     color: #757575;
 }
